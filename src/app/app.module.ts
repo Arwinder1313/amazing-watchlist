@@ -19,7 +19,7 @@ import { MatIconModule } from '@angular/material/icon';
 @NgModule({
   declarations: [
     AppComponent,
-@@ -24,7 +30,12 @@ import { WatchlistComponent } from './watchlist/watchlist.component';
+// @@ -24,7 +30,12 @@ import { WatchlistComponent } from './watchlist/watchlist.component';
   imports: [
     BrowserModule,
     AppRoutingModule,

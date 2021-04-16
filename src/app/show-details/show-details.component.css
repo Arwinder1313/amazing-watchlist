@@ -1,4 +1,7 @@
+.mat-column-season, .mat-column-episode {
+  width: 45px;
+}
+
 table {
-    width: 100%;
-  }
-  
+  width: 100%;
+}
